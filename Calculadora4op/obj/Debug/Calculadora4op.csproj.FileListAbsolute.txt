@@ -1,0 +1,7 @@
+C:\Users\Tecnico\source\repos\Calculadora4op\Calculadora4op\bin\Debug\Calculadora4op.exe.config
+C:\Users\Tecnico\source\repos\Calculadora4op\Calculadora4op\bin\Debug\Calculadora4op.exe
+C:\Users\Tecnico\source\repos\Calculadora4op\Calculadora4op\bin\Debug\Calculadora4op.pdb
+C:\Users\Tecnico\source\repos\Calculadora4op\Calculadora4op\obj\Debug\Calculadora4op.csproj.AssemblyReference.cache
+C:\Users\Tecnico\source\repos\Calculadora4op\Calculadora4op\obj\Debug\Calculadora4op.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\source\repos\Calculadora4op\Calculadora4op\obj\Debug\Calculadora4op.exe
+C:\Users\Tecnico\source\repos\Calculadora4op\Calculadora4op\obj\Debug\Calculadora4op.pdb
